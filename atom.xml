@@ -3,11 +3,11 @@
   <title>祁洋</title>
   
   <subtitle>生命不息、coding不止</subtitle>
-  <link href="https://qiyang20.github.io/atom.xml" rel="self"/>
+  <link href="https://qiyang20.com/atom.xml" rel="self"/>
   
-  <link href="https://qiyang20.github.io/"/>
-  <updated>2023-04-08T11:04:12.989Z</updated>
-  <id>https://qiyang20.github.io/</id>
+  <link href="https://qiyang20.com/"/>
+  <updated>2023-04-08T17:36:05.997Z</updated>
+  <id>https://qiyang20.com/</id>
   
   <author>
     <name>祁洋</name>
@@ -17,9 +17,55 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>技术</title>
+    <link href="https://qiyang20.com/posts/b8cf1317.html"/>
+    <id>https://qiyang20.com/posts/b8cf1317.html</id>
+    <published>2023-04-08T16:00:00.000Z</published>
+    <updated>2023-04-08T17:36:05.997Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="夏至"><a href="#夏至" class="headerlink" title="夏至"></a>夏至</h1><blockquote><p>一生的时间很短<br>  短到不过是两颗心之间的距离<br>  一生的时间也很长<br>  不如我们试着走走看</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;夏至&quot;&gt;&lt;a href=&quot;#夏至&quot; class=&quot;headerlink&quot; title=&quot;夏至&quot;&gt;&lt;/a&gt;夏至&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;一生的时间很短&lt;br&gt;  短到不过是两颗心之间的距离&lt;br&gt;  一生的时间也很长&lt;br&gt;  不如我们试着走走看&lt;/</summary>
+      
+    
+    
+    
+    
+    <category term="技术" scheme="https://qiyang20.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生活</title>
+    <link href="https://qiyang20.com/posts/b8cf1317.html"/>
+    <id>https://qiyang20.com/posts/b8cf1317.html</id>
+    <published>2023-04-08T16:00:00.000Z</published>
+    <updated>2023-04-08T17:36:11.501Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="夏至"><a href="#夏至" class="headerlink" title="夏至"></a>夏至</h1><blockquote><p>一生的时间很短<br>  短到不过是两颗心之间的距离<br>  一生的时间也很长<br>  不如我们试着走走看</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;夏至&quot;&gt;&lt;a href=&quot;#夏至&quot; class=&quot;headerlink&quot; title=&quot;夏至&quot;&gt;&lt;/a&gt;夏至&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;一生的时间很短&lt;br&gt;  短到不过是两颗心之间的距离&lt;br&gt;  一生的时间也很长&lt;br&gt;  不如我们试着走走看&lt;/</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="https://qiyang20.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://qiyang20.github.io/posts/4a17b156.html"/>
-    <id>https://qiyang20.github.io/posts/4a17b156.html</id>
+    <link href="https://qiyang20.com/posts/4a17b156.html"/>
+    <id>https://qiyang20.com/posts/4a17b156.html</id>
     <published>2023-04-08T10:42:34.795Z</published>
     <updated>2023-04-08T11:04:12.989Z</updated>
     
